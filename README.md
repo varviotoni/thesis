@@ -1,1 +1,1 @@
-This is a my Bachelor's Thesis repository
+This is my Bachelor's Thesis repository
